@@ -315,7 +315,7 @@ def main():
         if os.path.exists('models/fantasy_predictor.pkl'):
             st.success("ML Model Loaded")
         else:
-            st.warning("ML Model Not Found")
+            st.warning("MLfr Model Not Found")
             st.info("Please train a model via the 'Model Training' page.")
             
         st.markdown("---")

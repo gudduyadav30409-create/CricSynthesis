@@ -1,0 +1,27 @@
+{
+  "league_name": "Oneday_Cup_Australia",
+  "best_model": "Gradient Boosting",
+  "model_scores": {
+    "Random Forest": {
+      "r2": -0.0028903654296259518,
+      "mae": 32.49228502344044,
+      "rmse": 41.50128201163175
+    },
+    "XGBoost": {
+      "r2": -0.16197005454649727,
+      "mae": 34.32515721234996,
+      "rmse": 44.67167644323722
+    },
+    "Gradient Boosting": {
+      "r2": 0.015875606710098578,
+      "mae": 31.81103024811487,
+      "rmse": 41.111164766867994
+    }
+  },
+  "n_samples": 2213,
+  "n_matches": 104,
+  "n_teams": 6,
+  "trained_at": "2025-12-02 00:01:35",
+  "model_name": "AutoSave_Oneday_Cup_Australia_20251202_000135",
+  "saved_at": "2025-12-02 00:01:35"
+}

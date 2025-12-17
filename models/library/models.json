@@ -26,6 +26,15 @@
       "best_model": "Gradient Boosting",
       "r2_score": 0.035039273016090555,
       "saved_at": "2025-12-01 23:34:52"
+    },
+    {
+      "model_name": "AutoSave_Oneday_Cup_Australia_20251202_000135",
+      "league_name": "Oneday_Cup_Australia",
+      "n_matches": 104,
+      "n_teams": 6,
+      "best_model": "Gradient Boosting",
+      "r2_score": 0.015875606710098578,
+      "saved_at": "2025-12-02 00:01:35"
     }
   ]
 }
