@@ -1,4 +1,5 @@
-# CricSynthesis
+T20 Match IpL GT vs MI
+ # CricSynthesis
 
 A machine learning-powered web application for predicting fantasy cricket player performance and generating optimal team selections. Upload any cricket dataset, train custom models, and generate data-driven predictions for Dream11 and other fantasy platforms.
 
